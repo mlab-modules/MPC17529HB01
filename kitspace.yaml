@@ -1,0 +1,10 @@
+bom: hw/sch_pcb/MPC17529HB01.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/MPC17529HB01.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/MPC17529HB01
+summary: The module uses dual H-Bridge made by Freescale MC17529.The power voltage
+  is 2.0-6.8V, the current 2x0.7A, maximum current max 2x1.4A. It is intended for
+  small motors.
